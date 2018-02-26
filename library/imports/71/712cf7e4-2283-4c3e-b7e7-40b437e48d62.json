@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Enhancement",
+    "texture": "65648f9f-a655-47d2-ae96-283812020ec8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      36
+    ]
+  }
+}

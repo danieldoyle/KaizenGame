@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Epic",
+    "texture": "7d347b68-b4f5-45ea-a5ba-758462facf9d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      36
+    ]
+  }
+}

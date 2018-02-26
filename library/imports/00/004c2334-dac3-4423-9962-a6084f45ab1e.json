@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eze",
+    "texture": "7b741409-523f-48f1-a37c-390ef3ca2385",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      36
+    ]
+  }
+}

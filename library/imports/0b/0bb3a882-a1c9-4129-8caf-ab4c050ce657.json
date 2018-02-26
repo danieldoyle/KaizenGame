@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bill",
+    "texture": "d82c3783-aaf4-4ddb-8bdc-b459fa0483af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      118
+    ]
+  }
+}

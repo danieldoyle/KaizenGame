@@ -1,0 +1,54 @@
+2018-02-26T13:10:26.631Z - normal: Load ~/.CocosCreator/settings.json
+2018-02-26T13:10:26.639Z - normal: checking language setting...
+2018-02-26T13:10:26.639Z - normal: Language: en
+2018-02-26T13:10:30.660Z - success: protocol editor-framework registered
+2018-02-26T13:10:30.661Z - success: protocol app registered
+2018-02-26T13:10:30.661Z - success: protocol theme registered
+2018-02-26T13:10:30.661Z - success: protocol packages registered
+2018-02-26T13:10:30.661Z - success: protocol unpack registerred
+2018-02-26T13:10:30.661Z - success: protocol disable-commonjs registerred
+2018-02-26T13:10:32.222Z - normal: connected!
+2018-02-26T13:10:32.223Z - normal: Check project C:\Users\me\Documents\kaizen
+2018-02-26T13:10:32.225Z - normal: Initializing Cocos2d
+2018-02-26T13:10:33.612Z - normal: Initializing Asset Database
+2018-02-26T13:10:33.661Z - success: protocol uuid registerred
+2018-02-26T13:10:33.661Z - success: protocol db registerred
+2018-02-26T13:10:33.661Z - success: protocol thumbnail registerred
+2018-02-26T13:10:33.662Z - normal: Loading editor/builtin packages
+2018-02-26T13:10:33.693Z - success: anysdk loaded
+2018-02-26T13:10:33.853Z - success: assets loaded
+2018-02-26T13:10:33.855Z - success: builder loaded
+2018-02-26T13:10:33.858Z - success: cocos-analytics loaded
+2018-02-26T13:10:33.866Z - success: console loaded
+2018-02-26T13:10:33.870Z - success: hierarchy loaded
+2018-02-26T13:10:33.875Z - success: inspector loaded
+2018-02-26T13:10:33.877Z - success: keystore loaded
+2018-02-26T13:10:33.889Z - success: node-library loaded
+2018-02-26T13:10:33.891Z - success: package-asset loaded
+2018-02-26T13:10:33.894Z - success: preferences loaded
+2018-02-26T13:10:33.897Z - success: project-exporter loaded
+2018-02-26T13:10:33.915Z - success: project-importer loaded
+2018-02-26T13:10:33.918Z - success: project-settings loaded
+2018-02-26T13:10:33.921Z - success: ui-kit loaded
+2018-02-26T13:10:33.924Z - success: ui-grid loaded
+2018-02-26T13:10:33.928Z - success: scene loaded
+2018-02-26T13:10:33.930Z - success: sprite-editor loaded
+2018-02-26T13:10:33.935Z - success: store loaded
+2018-02-26T13:10:33.940Z - success: timeline loaded
+2018-02-26T13:10:33.940Z - normal: Loading builtin packages
+2018-02-26T13:10:33.943Z - success: asset-db-debugger loaded
+2018-02-26T13:10:33.944Z - success: code-editor loaded
+2018-02-26T13:10:33.945Z - success: color-picker loaded
+2018-02-26T13:10:33.948Z - success: package-manager loaded
+2018-02-26T13:10:33.953Z - success: sdkbox loaded
+2018-02-26T13:10:33.958Z - success: tester loaded
+2018-02-26T13:10:33.960Z - success: ui-kit-preview-extra loaded
+2018-02-26T13:10:33.962Z - success: ui-kit-preview loaded
+2018-02-26T13:10:33.964Z - success: ui-tree loaded
+2018-02-26T13:10:35.283Z - normal: Initializing project C:\Users\me\Documents\kaizen
+2018-02-26T13:10:35.292Z - normal: Loading packages
+2018-02-26T13:10:35.300Z - normal: Watching packages
+2018-02-26T13:10:35.315Z - normal: Run Application
+2018-02-26T13:10:36.893Z - success: preview server running at http://localhost:7456
+2018-02-26T13:10:44.008Z - normal: 1.8.1
+2018-02-26T13:13:08.442Z - info: shutdown preview server
